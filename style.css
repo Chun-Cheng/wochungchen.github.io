@@ -1,4 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #232323;
+    color: #cecece;
+}
+
+a {
+    text-decoration: none;
+    color: #5080a0;
+}
+
 .card {
-    height: 85vh;
-    width: 99vh;
+    background-color: aquamarine; /**/
+    width: 80vw;
+    height: 80vh;
+    margin: 10vw 10vh;
+    border-radius: 20px;
+}
+
+.card h1 {
+    margin-top: 20%;
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+
+}
+
+.card img {
+    /* position: relative; */
+    /* vertical-align: middle; */
+    /* right: 5%; */
+    
+    
 }
