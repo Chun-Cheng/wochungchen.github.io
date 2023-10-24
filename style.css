@@ -14,7 +14,7 @@ a {
 }
 
 .card {
-    background-color: aquamarine; /**/
+    background-color: indigo; /**/
     width: 80vw;
     height: 80vh;
     margin: 10vw 10vh;
@@ -33,6 +33,7 @@ a {
     /* position: relative; */
     /* vertical-align: middle; */
     /* right: 5%; */
-    
+    width: 300px;
+    border-radius: 50%;
     
 }
