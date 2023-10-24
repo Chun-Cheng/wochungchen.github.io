@@ -15,9 +15,8 @@ a {
 
 .card {
     background-color: indigo; /**/
-    width: 80vw;
     height: 80vh;
-    margin: 10vw 10vh;
+    margin: 50px;
     border-radius: 20px;
 }
 
