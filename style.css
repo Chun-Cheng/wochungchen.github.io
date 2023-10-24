@@ -36,3 +36,37 @@ a {
     border-radius: 50%;
     
 }
+
+
+footer {
+    width: 100%;
+    height: 30px;
+    background-color: darkslategray;
+}
+
+.footer .lang-btn {
+    margin-left: 5vw;
+    text-align: left;
+    line-height: 30px;
+}
+
+.footer .copyright {
+    text-align: right;
+    line-height: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .card h1 {
+        position: relative;
+        text-align: center;
+        vertical-align: bottom;
+        /* bottom: 30%; */
+
+    }
+
+    .card img {
+        width: 200px;
+        position: relative;
+        /* top: 20%; */
+    }
+}
